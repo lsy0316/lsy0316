@@ -24,7 +24,7 @@
 
 # My repositories
 
-## [Algorithm-questions](https://github.com/yourusername/Algorithm-questions)
+## [Undergraduate-CS-Projects](https://github.com/yourusername/Undergraduate-CS-Projects)
 本科期间刷过的算法题记录，涵盖数据结构、算法设计与分析、竞赛真题等。主要使用 **C/C++** 编写，包含详细的解题思路与复杂度分析，适合算法入门与复习。  
 
 ## [Projects_reproduction](https://github.com/yourusername/Projects_reproduction)
